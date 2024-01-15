@@ -1,2 +1,2 @@
-# SubjectiveCatch
-SEO-optimised pages for discoverability of the Subjective platform.
+# SubjectiveDocs
+Documentation for Subjective products.
