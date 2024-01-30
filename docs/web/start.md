@@ -7,9 +7,9 @@ Let's get you set up with Subjective, it'll take just a minute.
 
 ## Initial Steps
 
-Head to [Subjective](https://app.subjective.school) and ensure you are on the select page.
+Head to [Subjective](https://app.subjective.school) and ensure you are on the setup page.
 
-![Alt text](/img/select-page.png)
+![Subjective setup page](/img/select-page.png)
 
 If you aren't, learn how to clear your student data here.
 
