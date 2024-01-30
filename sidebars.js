@@ -67,17 +67,17 @@ const sidebars = {
     {
       type: 'category',
       label: 'Subjective CLI',
-      items: ['developer/cli/start'],
+      items: ['developer/cli/about'],
     },
     {
       type: 'category',
       label: 'Subjective Assembly',
-      items: ['developer/assembly/start'],
+      items: ['developer/assembly/about'],
     },
     {
       type: 'category',
       label: 'SubjectveKit',
-      items: ['developer/kit/start'],
+      items: ['developer/kit/about'],
     },
   ],
 

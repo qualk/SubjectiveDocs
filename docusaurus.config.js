@@ -98,20 +98,28 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Guide',
+                to: '/docs/web/start',
+              },
+              {
+                label: 'Developer',
+                to: '/docs/developer/cli/about',
               },
             ],
           },
           {
             title: 'Community',
             items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
               {
                 label: 'Discord',
                 href: 'https://discord.subjective.school',
@@ -122,8 +130,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'About',
+                href: 'https://subjective.school/about',
               },
               {
                 label: 'GitHub',
