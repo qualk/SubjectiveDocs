@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
+
+:root {
+  --ifm-color-primary: #5f97ff;
+  --ifm-color-primary-dark: #467de3;
+  --ifm-color-primary-darker: #3065c7;
+  --ifm-color-primary-darkest: #2453ab;
+  --ifm-color-primary-light: #6799f5;
+  --ifm-color-primary-lighter: #75a6ff;
+  --ifm-color-primary-lightest: #87b2ff;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: 'Red Hat Display';
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #6799f5;
+  --ifm-color-primary-dark: #5f97ff;
+  --ifm-color-primary-darker: #467de3;
+  --ifm-color-primary-darkest: #3065c7;
+  --ifm-color-primary-light: #75a6ff;
+  --ifm-color-primary-lighter: #87b2ff;
+  --ifm-color-primary-lightest: #94baff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
