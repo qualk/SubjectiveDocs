@@ -76,9 +76,20 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guide',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'developerSidebar',
+            position: 'left',
+            label: 'Developer',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          {
+            href: 'https://discord.subjective.school',
+            label: 'Discord',
+            position: 'right',
+          },
           {
             href: 'https://github.com/SubjectiveLabs',
             label: 'GitHub',
