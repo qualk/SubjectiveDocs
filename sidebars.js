@@ -18,7 +18,44 @@ const sidebars = {
     {
       type: 'category',
       label: 'Subjective for Web',
-      items: ['web/start'],
+      items: [
+        "web/start",
+        {
+          "type": "category",
+          "label": "Student",
+          "items": [
+            'web/student/subjects',
+            'web/student/links',
+            'web/student/export',
+            'web/student/clear-data'
+          ]
+        },
+        {
+          "type": "category",
+          "label": "Timetable",
+          "items": [
+            'web/timetable/editing',
+            'web/timetable/custom',
+          ]
+        },
+        {
+          "type": "category",
+          "label": "App",
+          "items": [
+            'web/app/dynamic-title',
+            'web/app/notifications',
+            'web/app/pwa',
+          ]
+        },
+        {
+          "type": "category",
+          "label": "Help",
+          "items": [
+            'web/help/faq',
+            'web/help/troubleshooting',
+          ]
+        }
+      ],
     },
     {
       type: 'category',
@@ -29,13 +66,18 @@ const sidebars = {
   developerSidebar: [
     {
       type: 'category',
-      label: 'CLI',
-      items: ['developer/cli'],
+      label: 'Subjective CLI',
+      items: ['developer/cli/start'],
+    },
+    {
+      type: 'category',
+      label: 'Subjective Assembly',
+      items: ['developer/assembly/start'],
     },
     {
       type: 'category',
       label: 'SubjectveKit',
-      items: ['developer/kit'],
+      items: ['developer/kit/start'],
     },
   ],
 
