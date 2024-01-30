@@ -2,46 +2,51 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Get Started
+Let's get you set up with Subjective, it'll take just a minute.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Initial Steps
 
-## Getting Started
+Head to [Subjective](https://app.subjective.school) and ensure you are on the select page.
 
-Get started by **creating a new site**.
+![Alt text](/img/select-page.png)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+If you aren't, learn how to clear your student data here.
 
-### What you'll need
+### Privacy
+We take your privacy seriously. Your data, is for your eyes only.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+**We may ask to access your location.** Your location is used to show schools in your area. Your location data is completely private, and inaccessible to us.
 
-## Generate a new site
+**We may ask for notification access on setup.** We use notifications to notify you of bell times and the end of your classes.
 
-Generate a new Docusaurus site using the **classic template**.
+## Setup
 
-The classic template will automatically be added to your project after you run the command:
+There are multiple ways to get started, depending on your school and/or if you are a returning user.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+If you would like to transfer or copy data to and from Subjective on different browsers/devices, click here.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Selecting a School
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+**Before you select a school, if your school distributes timetables through Sentral, you can directly import it here to get set up instantly. [See here for instructions](#migrate-from-sentral).**
 
-## Start your site
+Select a school to set up Subjective.
 
-Run the development server:
+1. Click *'Get Started'*
+2. Find your school in the list and click to complete set up.
 
-```bash
-cd my-website
-npm run start
-```
+#### Custom Schools
+3. If your school is not yet available, you can create a school by clicking *'Create School'*.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### Migrate from Sentral
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+We support the Sentral timetable format, and we are able to bring your classes and subjects to Subjective instantly.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+1. Click *'Migrate from Sentral'* under the *'More'* section.
+2. On the screen shown, read the instructions on how to get your iCalendar timetable file from Sentral, or see detailed instructions here.
+3. Upload your Sentral iCalendar file.
+4. On the following screen, if your school is supported by Subjective (if it is it will appear on the list shown), select it to gain access to even more Subjective features. Otherwise, click *'Skip'*
+
+However, due to the limitations of Sentral, Subjective will choose a color and default icon which you can tweak to your liking.
+Learn more about Subjects, here.
+

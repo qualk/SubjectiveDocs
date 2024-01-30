@@ -9,7 +9,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Subjective Docs',
-  tagline: 'Guides and documentation on all things Subjective.',
+  tagline: 'Get to know your school-tailored student organisation app.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -69,7 +69,7 @@ const config = {
         title: 'Subjective Docs',
         logo: {
           alt: 'Subjective logo',
-          src: 'img/logo.svg',
+          src: 'icons/icon-512x512.png',
         },
         items: [
           {
@@ -80,7 +80,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/SubjectiveLabs',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,7 +121,6 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
