@@ -23,3 +23,7 @@
   --ifm-color-primary-lightest: #94baff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+* {
+  font-synthesis: none;
+}
