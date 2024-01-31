@@ -14,13 +14,15 @@ Head to [Subjective](https://app.subjective.school) and ensure you are on the se
 
 If you aren't, learn how to clear your student data here.
 
-### Privacy
+:::info[Privacy]
 
-We take your privacy seriously. Your data, is for your eyes only.
+We take your privacy seriously. Your data is for your eyes only.
 
 **We may ask to access your location.** Your location is used to show schools in your area. Your location data is completely private, and inaccessible to us.
 
 **We may ask for notification access on setup.** We use notifications to notify you of bell times and the end of your classes.
+
+:::
 
 ## Setup
 
@@ -30,24 +32,30 @@ If you would like to transfer or copy data to and from Subjective on different b
 
 ### Selecting a School
 
-**Before you select a school, if your school distributes timetables through Sentral, you can directly import it here to get set up instantly. [See here for instructions](#migrate-from-sentral).**
+**If your school distributes timetables through Sentral, you can directly import it here to get set up instantly. [See here for instructions](#migrate-from-sentral).**
 
 Select a school to set up Subjective.
 
-1. Click *'Get Started'*
-2. Find your school in the list and click to complete set up.
+1. Press *'Get Started'*
+2. Find your school in the list and press it to complete set up.
 
-#### Custom Schools
-3. If your school is not yet available, you can create a school by clicking *'Create School'*.
+:::info[Custom Schools]
+
+If your school is not yet available, you can create a school by pressing *'Create School'* after pressing *'Get Started'*.
+
+:::
 
 ### Migrate from Sentral
 
-We support the Sentral timetable format, and we are able to bring your classes and subjects to Subjective instantly.
+Subjective supports the Sentral timetable format, and is able to import your classes and subjects instantly.
 
-1. Click *'Migrate from Sentral'* under the *'More'* section.
-2. On the screen shown, read the instructions on how to get your iCalendar timetable file from Sentral, or see detailed instructions here.
-3. Upload your Sentral iCalendar file.
-4. On the following screen, if your school is supported by Subjective (if it is it will appear on the list shown), select it to gain access to even more Subjective features. Otherwise, click *'Skip'*
+1. On the setup page, press *'Migrate from Sentral'* under the *'More'* section.
+2. Get your Sentral iCalendar file.
+    1. Log in to Sentral.
+    2. Press *'\<your name>'s Timetable'* on the right side of the screen, or on mobile, press the *'Student Details'* tab at the top, then press *'\<your name>'s Timetable'*.
+    3. Press the *'Export as ICS'* button on the right.
+3. Upload your Sentral iCalendar file by pressing the *'Upload'* button.
+4. On the following screen, if your school is supported by Subjective (it appears on the list shown), select it to gain access to even more Subjective features. Otherwise, click *'Skip'*.
+5. Finally, press *'Launch'* to complete setup and view the dashboard.
 
-However, due to the limitations of Sentral, Subjective will choose a color and default icon which you can tweak to your liking.
-Learn more about Subjects, here.
+Due to the limitations of Sentral, Subjective will choose a color and default icon for each subject, which you can tweak to your liking. Learn more about subjects here.
