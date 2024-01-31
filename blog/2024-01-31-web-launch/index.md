@@ -13,10 +13,10 @@ tags: [web, update]
 
 Thanks for your support, from SchoolScout to Subjective. :)
 
-**Available free, at [app.subjective.school](https://app.subjective.school)**
+**Available for free, at [app.subjective.school](https://app.subjective.school)**
 
 ![Subjective for Web banner](./web-launch.png)
 
 **Join the [Subjective Community on Discord](https://discord.subjective.school)**
 
-Subjective for iOS will feature the new comprehensive collection of schools in a future update. 
+Subjective for iOS will feature the new comprehensive collection of schools in a future update.

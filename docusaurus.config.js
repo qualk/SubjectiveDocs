@@ -137,6 +137,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/SubjectiveLabs',
               },
+              {
+                label: 'Privacy & Legal',
+                to: '/docs/legal',
+              }
             ],
           },
         ],

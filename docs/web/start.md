@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Get Started
+
 Let's get you set up with Subjective, it'll take just a minute.
 
 ## Initial Steps
@@ -14,6 +15,7 @@ Head to [Subjective](https://app.subjective.school) and ensure you are on the se
 If you aren't, learn how to clear your student data here.
 
 ### Privacy
+
 We take your privacy seriously. Your data, is for your eyes only.
 
 **We may ask to access your location.** Your location is used to show schools in your area. Your location data is completely private, and inaccessible to us.
@@ -49,4 +51,3 @@ We support the Sentral timetable format, and we are able to bring your classes a
 
 However, due to the limitations of Sentral, Subjective will choose a color and default icon which you can tweak to your liking.
 Learn more about Subjects, here.
-
