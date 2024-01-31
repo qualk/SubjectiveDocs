@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Get Started
 
-Let's get you set up with Subjective, it'll take just a minute.
+Let's get you set up with Subjective for Web.
 
 ## Initial Steps
 
