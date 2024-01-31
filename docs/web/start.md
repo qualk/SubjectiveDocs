@@ -58,4 +58,4 @@ Subjective supports the Sentral timetable format, and is able to import your cla
 4. On the following screen, if your school is supported by Subjective (it appears on the list shown), select it to gain access to even more Subjective features. Otherwise, click *'Skip'*.
 5. Finally, press *'Launch'* to complete setup and view the dashboard.
 
-Due to the limitations of Sentral, Subjective will choose a color and default icon for each subject, which you can tweak to your liking. Learn more about subjects here.
+Due to the limitations of Sentral, Subjective will choose a color and default icon for each subject, which you can tweak to your liking. Learn more about subjects [here](/docs/web/student/subjects).

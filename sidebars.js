@@ -66,8 +66,8 @@ const sidebars = {
   developerSidebar: [
     {
       type: 'category',
-      label: 'Subjective CLI',
-      items: ['developer/cli/about'],
+      label: 'Subjective CLI and Rust Library',
+      items: ['developer/cli-and-rust/about'],
     },
     {
       type: 'category',
@@ -76,7 +76,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'SubjectveKit',
+      label: 'SubjectiveKit',
       items: ['developer/kit/about'],
     },
   ],
