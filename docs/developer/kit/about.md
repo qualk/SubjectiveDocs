@@ -1,6 +1,6 @@
 # SubjectiveKit Schools
 
-**SubjectiveKit Schools** is the primary source of school-related data for Subjective for Web and Subjective on Apple platforms. Learn more [here](/schools).
+**SubjectiveKit Schools** is the our library of school data for Subjective for Web and Subjective on Apple platforms.
 
 The data is served as JavaScript Object Notation (JSON) from [https://cdn.subjective.school/schools.json](https://cdn.subjective.school/schools.json). The source code can be found [here](https://github.com/SubjectiveLabs/SubjectiveKit/blob/main/schools.json).
 
