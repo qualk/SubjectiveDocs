@@ -130,9 +130,13 @@ const config = {
                 href: 'https://github.com/SubjectiveLabs',
               },
               {
+                label: 'Status',
+                to: 'https://status.subjective.candra.dev',
+              },
+              {
                 label: 'Privacy & Legal',
                 to: '/docs/legal',
-              }
+              },
             ],
           },
         ],
