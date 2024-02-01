@@ -1,14 +1,22 @@
 # Subjects
 
-A subject stores information about a class, such as a name, colour, icon, and locations.
+To add your classes to your timetable, subjects are used to group your classes.
+*For example; maths, science and engineering.*
 
-On the Subjects page, you can view all of your subjects, and add, edit, and delete subjects.
+## The Subjects Page
+To access your subjects, head to your menu. It will be on the left hand side for desktop users, and for mobile users, open the menu by clicking the 'three lines' button in the top left corner.
+
+![Subjects page](/img/subjects-page.png)
+
+## Introduction
+When you first get started on Subjective, your Subjects page will be blank unless you have migrated your timetable from Sentral, so you'll need to [create subjects for all your classes](#adding-a-subject).
+
+### Sentral Import
+When your timetable is imported from Sentral, Subjective automatically creates subjects for you.
+
+Due to the limitations of Sentral timetables, subject colours are automatically derived from the subject name, meaning that people with the same subject name will have the same colour for them.
 
 :::tip[Technical]
-
-When a subject is imported from Sentral, it is automatically added to the Subjects page.
-
-The colour is automatically chosen based on the subject name, meaning that people with the same subject name will have the same colour for them.
 
 The subject name to colour algorithm is as follows:
 
@@ -27,7 +35,7 @@ Each subject is displayed as a card, with the subject name, icon, locations, and
 
 On desktop, switch between *Stack* and *Grid* view by pressing the button in the top left.
 
-## Adding a Subject
+## Creating a Subject
 
 1. Press the *'+'* button in the bottom right.
 2. Choose a name, an icon, some locations, and a colour to represent the subject.

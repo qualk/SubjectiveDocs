@@ -13,7 +13,7 @@ tags: [web, update]
 
 Thanks for your support, from SchoolScout to Subjective. :)
 
-**Available for free, at [app.subjective.school](https://app.subjective.school)**
+**Available for free, at [app.subjective.school](https://app.subjective.candra.dev)**
 
 ![Subjective for Web banner](./web-launch.png)
 

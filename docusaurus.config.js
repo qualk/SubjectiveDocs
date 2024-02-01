@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: 'Developer',
-                to: '/docs/developer/cli/about',
+                to: '/docs/developer/assembly/about',
               },
             ],
           },

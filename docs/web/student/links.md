@@ -1,18 +1,27 @@
 # Links
 
-A link is a URL that can be opened from the Subjective dashboard.
+A link is a bookmark for a website that can be opened from the Subjective dashboard.
 
-These can be named anything to help you remember what they are for, and identify them quickly.
+When you set up Subjective with an existing school, you'll have some default links. These links can be removed, and you can even add your own.
 
-An icon can even be chosen to represent the link.
+### Desktop
+You'll find it on the right hand side of the 'Home' page on desktop.
 
-On the dashboard, links are displayed as cards, with the name and icon displayed.
+![Links section on desktop](/img/links-desktop.png)
 
-These can be added and deleted.
+### Mobile
+Or for mobile users, in the carousel of your 'Home' page.
+
+:::info[Carousel]
+For mobile users, a carousel puts sections such as links on pages accessible through a swipe.
+Try swiping left and right, between pages to check out the carousel sections.
+:::
+
+<img src="/img/links-mobile.png" alt="Links section on mobile" width="400"/>
 
 ## Adding Links
 
-1. Press the *'+'* button in the top right of the links section.
+1. Press the *'+'* button in the top right of the links section. 
 2. Choose a name and an icon to represent the link.
 3. Enter a destination URL.
 4. Press *'Add'* to add the link.
