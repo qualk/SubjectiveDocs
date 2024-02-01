@@ -8,7 +8,7 @@ Let's get you set up with Subjective for Web.
 
 ## Initial Steps
 
-Head to [Subjective](https://app.subjective.school) and ensure you are on the setup page.
+Head to [Subjective](https://app.subjective.candra.dev) and ensure you are on the setup page.
 
 ![Subjective setup page](/img/select-page.png)
 

@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.subjective.school',
+  url: 'https://docs.subjective.candra.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -123,7 +123,7 @@ const config = {
             items: [
               {
                 label: 'About',
-                href: 'https://subjective.school/about',
+                href: 'https://subjective.candra.dev/about',
               },
               {
                 label: 'GitHub',
