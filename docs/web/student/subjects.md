@@ -4,7 +4,7 @@ To add your classes to your timetable, subjects are used to group your classes.
 *For example; maths, science and engineering.*
 
 ## The Subjects Page
-To access your subjects, head to your menu. It will be on the left hand side for desktop users, and for mobile users, open the menu by clicking the 'three lines' button in the top left corner.
+To access your subjects, head to your menu and click 'Subjects'. It will be on the left hand side for desktop users, and for mobile users, open the menu by clicking the 'three lines' button in the top left corner.
 
 ![Subjects page](/img/subjects-page.png)
 
