@@ -7,7 +7,9 @@ Safety is our number one priority.
 By verifying in the community, you agree to our Subjective community guidelines. Community guidelines are subject to change with notification.
 
 ## Behaviour
-Explicit and derogatory behaviour, harrassment, and spam has no place in our community.
+Treat everyone with respect.
+Explicit and derogatory behaviour, harrassment, and spam has no place in our community, and it isn't the place for self-promotion or advertising.
+
 Violations of these rules will be reviewed on a case by case basis.
 
 ## Safety
