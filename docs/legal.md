@@ -11,13 +11,12 @@ Subjective (henceforth referred to as 'we', 'our' or 'us') is committed to the p
 Subjective ID users data is stored securely in the Subjective Cloud. We aim to not only store only strictly necessary user data but are committed to non-distribution and reading user data without consent.
 A request for your user data or account deletion can be sent through [legal@subjective.school](mailto:legal@subjective.school)
 
-### Support data access
-We may access ID data for support purposes, however this will only occur with consent from the account owner. Subjective cannot read the data stored locally in your browser.
-
-### Location and notification services
+### Local services and support
 The local usage of location and notifications within the browser, is strictly opt-in. Location is used only for weather services and presenting local schools in your area, and notification access is used only for optional pre-bell notifications.
 
-### Analytics and derivative data
+We may access ID data for support purposes, however this will only occur with consent from the account owner. Subjective cannot read the data stored locally in your browser.
+
+### Derivative data
 We may collect analytics and derivative data about your device and your app usage, from other third party providers, Google, Cloudflare and Apple. We aim to never collect any identifying or personal information, however the collection of this data is subject to the privacy policies of the respective organisations.
 
 Any personal user data such as school information, bell times, or wellbeing records is completely private and is never stored or sent to us.
