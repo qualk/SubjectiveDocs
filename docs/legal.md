@@ -8,7 +8,7 @@ Subjective (henceforth referred to as 'we', 'our' or 'us') is committed to the p
 
 ### Subjective ID and Cloud
 *Your data, whether in the cloud or not, is yours and yours only.*
-Subjective ID users data is stored securely in the Subjective Cloud. We aim to not only store strictly necessary user data but are committed, to NOT distributing and reading user data without consent.
+Subjective ID users data is stored securely in the Subjective Cloud. We aim to not only store only strictly necessary user data but are committed to non-distribution and reading user data without consent.
 A request for your user data or account deletion can be sent through [legal@subjective.school](mailto:legal@subjective.school)
 
 ### Support data access
