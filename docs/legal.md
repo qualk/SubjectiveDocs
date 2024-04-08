@@ -4,19 +4,27 @@ Subjective strives to be a safe and secure app for all users, and as such we tak
 
 ## Privacy Policy
 
-Subjective (henceforth referred to as 'we' or 'us') is committed to the privacy of our users, and does not collect or store any identifying user data including location and notification data which is used in Subjective to facilitate school selection, delivery of reminders and more.
+Subjective (henceforth referred to as 'we', 'our' or 'us') is committed to the privacy of our users, and does not collect or store any identifying user data including location when not linked to a Subjective ID.
 
-The local usage of this data, within the browser, is optional and is an opt-in feature.
+### Subjective ID and Cloud
+*Your data, whether in the cloud or not, is yours and yours only.*
+Subjective ID users data is stored securely in the Subjective Cloud. We aim to not only store strictly necessary user data but are committed, to NOT distributing and reading user data without consent.
+A request for your user data or account deletion can be sent through [legal@subjective.school](mailto:legal@subjective.school)
 
-We may collect analytics and derivative data about your device and your app usage, from other third party providers, Apple and Cloudflare. We aim to never collect any identifying or personal information, however the collection of this data is subject to the privacy policies of the respective mentioned analytics agencies.
+### Support data access
+We may access ID data for support purposes, however this will only occur with consent from the account owner. Subjective cannot read the data stored locally in your browser.
 
-Subjective web products (including, but not limited to Subjective for Web, Docs, CDN, and the landing page) uses Cloudflare Web Analytics to help improve your user experience through analysis of derivative data. We cannot and do NOT see or collect individual activity.
+### Location and notification services
+The local usage of location and notifications within the browser, is strictly opt-in. Location is used only for weather services and presenting local schools in your area, and notification access is used only for optional pre-bell notifications.
+
+### Analytics and derivative data
+We may collect analytics and derivative data about your device and your app usage, from other third party providers, Google, Cloudflare and Apple. We aim to never collect any identifying or personal information, however the collection of this data is subject to the privacy policies of the respective organisations.
 
 Any personal user data such as school information, bell times, or wellbeing records is completely private and is never stored or sent to us.
 
 This privacy policy is subject to change in future, however users will be notified if such changes occur.
 
-If there are any questions regarding our data collection practices or user privacy measures, contact us at [support@subjective.school](mailto:legal@subjective.school).
+If there are any questions regarding our data collection practices or user privacy measures, contact us at [legal@subjective.school](mailto:legal@subjective.school).
 
 ## Legal
 
