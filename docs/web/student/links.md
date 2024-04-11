@@ -5,11 +5,13 @@ A link is a bookmark for a website that can be opened from the Subjective dashbo
 When you set up Subjective with an existing school, you'll have some default links. These links can be removed, and you can even add your own.
 
 ### Desktop
+
 You'll find it on the right hand side of the 'Home' page on desktop.
 
 ![Links section on desktop](/img/links-desktop.png)
 
 ### Mobile
+
 Or for mobile users, in the carousel of your 'Home' page.
 
 :::info[Carousel]
@@ -21,7 +23,7 @@ Try swiping left and right, between pages to check out the carousel sections.
 
 ## Adding Links
 
-1. Press the *'+'* button in the top right of the links section. 
+1. Press the *'+'* button in the top right of the links section.
 2. Choose a name and an icon to represent the link.
 3. Enter a destination URL.
 4. Press *'Add'* to add the link.

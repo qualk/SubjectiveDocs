@@ -7,16 +7,19 @@ Subjective strives to be a safe and secure app for all users, and as such we tak
 Subjective (henceforth referred to as 'we', 'our' or 'us') is committed to the privacy of our users, and does not collect or store any identifying user data including location when not linked to a Subjective ID.
 
 ### Subjective ID and Cloud
+
 *Your data, whether in the cloud or not, is yours and yours only.*
 Subjective ID users data is stored securely in the Subjective Cloud. We aim to not only store only strictly necessary user data but are committed to non-distribution and reading user data without consent.
 A request for your user data or account deletion can be sent through [legal@subjective.school](mailto:legal@subjective.school)
 
 ### Local services and support
+
 The local usage of location and notifications within the browser, is strictly opt-in. Location is used only for weather services and presenting local schools in your area, and notification access is used only for optional pre-bell notifications.
 
 We may access ID data for support purposes, however this will only occur with consent from the account owner. Subjective cannot read the data stored locally in your browser.
 
 ### Derivative data
+
 We may collect analytics and derivative data about your device and your app usage, from other third party providers, Google, Cloudflare and Apple. We aim to never collect any identifying or personal information, however the collection of this data is subject to the privacy policies of the respective organisations.
 
 Any personal user data such as school information, bell times, or wellbeing records is completely private and is never stored or sent to us.
@@ -47,4 +50,3 @@ Subjective for Apple platforms utilises the Code Scanner library by Paul Hudson,
 
 The Subjective landing page contains a cropped version of the North Sydney Boys High School image by Dxwkx.
 This work is licensed under Dxwkx, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons.
-
