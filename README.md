@@ -13,7 +13,7 @@ Help us make Subjective acessible for all by contributing to Subjective guides a
 Install the Subjective Docs application dependencies.
 
 ```bash
-yarn
+bun i
 ```
 
 ### Developing
@@ -21,7 +21,7 @@ yarn
 Start a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ```bash
-yarn start
+bun run start
 ```
 
 ### Build
@@ -29,5 +29,11 @@ yarn start
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ```bash
-yarn build
+bun run build
+```
+
+Test the build by serving it.
+
+```bash
+bun run serve
 ```
