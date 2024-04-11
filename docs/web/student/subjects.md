@@ -4,14 +4,17 @@ To add your classes to your timetable, subjects are used to group your classes.
 *For example; maths, science and engineering.*
 
 ## The Subjects Page
+
 To access your subjects, head to your menu and click 'Subjects'. It will be on the left hand side for desktop users, and for mobile users, open the menu by clicking the 'three lines' button in the top left corner.
 
 ![Subjects page](/img/subjects-page.png)
 
 ## Introduction
-When you first get started on Subjective, your Subjects page will be blank unless you have migrated your timetable from Sentral, so you'll need to [create subjects for all your classes](#adding-a-subject).
+
+When you first get started on Subjective, your Subjects page will be blank unless you have migrated your timetable from Sentral, so you'll need to [create subjects for all your classes](#creating-a-subject).
 
 ### Sentral Import
+
 When your timetable is imported from Sentral, Subjective automatically creates subjects for you.
 
 Due to the limitations of Sentral timetables, subject colours are automatically derived from the subject name, meaning that people with the same subject name will have the same colour for them.
